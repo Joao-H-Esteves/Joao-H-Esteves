@@ -1,9 +1,9 @@
 # Programador e Analista de Dados 💻
 
-*  Sou um profissional iniciando na área de tecnologia.
-*  Cursando Análise e desenvolvimento de sistemas.
-*  Vontade de aprender e ensinar.
-*  Um Nerd apaixonado por códigos e desafios.
+*  __Sou um profissional iniciando na área de tecnologia.__
+*  __Cursando Análise e desenvolvimento de sistemas.__
+*  __Vontade de aprender e ensinar.__
+*  __Um Nerd apaixonado por códigos e desafios.__
   ---
 ## Bem vindo ao meu GitHub 👋
 ### Portifólio
