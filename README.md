@@ -30,6 +30,7 @@
 
 ![stormtroopocatPP](https://user-images.githubusercontent.com/95099882/144245286-c994f15d-8a97-48b2-bd14-5b7a4d83f01d.png)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=8A2BE2)](https://www.linkedin.com/in/joao-henrique-g-esteves-iat-bi/)
-[![Instagram Badge](https://img.shields.io/badge/Email-1C1C1C?style=for-the-badge&logo=gmail&logoColor=8A2BE2)](mailto:joaohesteves@msn.com)
+[![Email Badge](https://img.shields.io/badge/Email-1C1C1C?style=for-the-badge&logo=gmail&logoColor=8A2BE2)](mailto:joaohesteves@msn.com)
+[![Instagran Badge](https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=8A2BE2)](https://www.instagram.com/joaohesteves.ti/)
 ![RobotocatPP](https://user-images.githubusercontent.com/95099882/144250831-994077d6-050d-4643-9b5f-9b8d381ece95.png):
 
