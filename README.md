@@ -17,7 +17,7 @@
 ### Portifólio <img height="20px" src="https://user-images.githubusercontent.com/50364832/143619165-74c703be-b3a3-4902-9563-07928511c2bc.gif" />
    </br>
   
-**Aqui se encontram projetos e trabalhos sobre os cursos que fiz.**
+**Aqui encontram-se projetos e trabalhos sobre os cursos que fiz.**
 
 ---
 
