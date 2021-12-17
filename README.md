@@ -21,7 +21,7 @@
 
 ---
 
-📄[---  Meus Cursos  ---](https://joao-h-esteves.github.io/Ola-Mundo-Curso--GitHub/)📃
+📄[---  Meus Cursos  ---](https://joao-h-esteves.github.io/Meu-GitHub---Ola-Mundo/)📃
 
 ---
 <!-- ## 🔗 &nbsp;Links -->
