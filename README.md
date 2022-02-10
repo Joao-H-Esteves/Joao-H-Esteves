@@ -34,3 +34,21 @@
 [![Instagran Badge](https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=8A2BE2)](https://www.instagram.com/joaohesteves.ti/)
 ![RobotocatPP](https://user-images.githubusercontent.com/95099882/144250831-994077d6-050d-4643-9b5f-9b8d381ece95.png):
 
+---
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-h-esteves&layout=compact"
+    />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=joao-h-esteves&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+    />
+  </a>
+</p>
+
+---
