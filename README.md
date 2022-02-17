@@ -1,3 +1,5 @@
+---
+
 # Programador Full Stack 💻 <img src="https://komarev.com/ghpvc/?username=Joao-h-Etesves&color=blueviolet&label=Visualizações+do+perfil&style=flat-square" align="right"/>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer Joao H">
 
@@ -7,14 +9,16 @@
 *  __Cursando Análise e desenvolvimento de sistemas.__
 *  __Vontade de aprender e ensinar.__
 *  __Um Nerd apaixonado por códigos e desafios.__
-  </br>
+  </br></br>
+  
+  ### Bem vindo ao meu GitHub <img height="30px" src="https://user-images.githubusercontent.com/50364832/143615313-330ef73e-ee1c-4cfe-b71d-7462a00f16b4.gif" />
   
   ---
   
-## Bem vindo ao meu GitHub <img height="30px" src="https://user-images.githubusercontent.com/50364832/143615313-330ef73e-ee1c-4cfe-b71d-7462a00f16b4.gif" />
+
    
    
-### Portifólio <img height="30px"  src="https://user-images.githubusercontent.com/50364832/143619165-74c703be-b3a3-4902-9563-07928511c2bc.gif" />
+## Portifólio <img height="30px"  src="https://user-images.githubusercontent.com/50364832/143619165-74c703be-b3a3-4902-9563-07928511c2bc.gif" />
  
 
 
@@ -25,28 +29,43 @@
  
 </div>
 
----
+</br></br>
 
 
-### Meus Cursos
+## Meus Cursos
 <p font-size="30px">
   <a  href= https://joao-h-esteves.github.io/Meu-GitHub---Ola-Mundo/>
     📄 &nbsp **Certificados** &nbsp📃
   </a>
 </p>
 
----
+</br></br>
 
 <!-- ## 🔗 &nbsp;Links -->
 <h2> Mídias Sociais <img height="20px" src="https://user-images.githubusercontent.com/50364832/143620129-a7cf3435-8c3d-45f1-89fc-a64836558c39.gif" /> </h2>
 
+<div>
+      <div class="image" align="left">
+        <img src= "https://user-images.githubusercontent.com/95099882/144245286-c994f15d-8a97-48b2-bd14-5b7a4d83f01d.png"/>
+      </div>
 
-![stormtroopocatPP](https://user-images.githubusercontent.com/95099882/144245286-c994f15d-8a97-48b2-bd14-5b7a4d83f01d.png)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=8A2BE2)](https://www.linkedin.com/in/joao-henrique-g-esteves-iat-bi/)
-[![Email Badge](https://img.shields.io/badge/Email-1C1C1C?style=for-the-badge&logo=gmail&logoColor=8A2BE2)](mailto:joaohesteves@msn.com)
-[![Instagran Badge](https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=8A2BE2)](https://www.instagram.com/joaohesteves.ti/)
-![RobotocatPP](https://user-images.githubusercontent.com/95099882/144250831-994077d6-050d-4643-9b5f-9b8d381ece95.png):
+      <div class="links_box" align="center">
 
+        <a href="https://www.linkedin.com/in/joao-henrique-g-esteves-iat-bi"/>
+            <img src= "https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=8A2BE2"/>
+        </a>
+    [![Email Badge](https://img.shields.io/badge/Email-1C1C1C?style=for-the-badge&logo=gmail&logoColor=8A2BE2)](mailto:joaohesteves@msn.com)
+    [![Instagran Badge](https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=8A2BE2)](https://www.instagram.com/joaohesteves.ti/)
+        </div>
+                                                                                                                       
+       <div class="image" align="right">                                                                                                                 
+          <img src= "https://user-images.githubusercontent.com/95099882/144250831-994077d6-050d-4643-9b5f-9b8d381ece95.png"/>
+       </div>
+      
+ </div>
+  [![Email Badge](https://img.shields.io/badge/Email-1C1C1C?style=for-the-badge&logo=gmail&logoColor=8A2BE2)](mailto:joaohesteves@msn.com)
+    [![Instagran Badge](https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=8A2BE2)](https://www.instagram.com/joaohesteves.ti/)
+    
 ---
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
