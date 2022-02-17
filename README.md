@@ -44,25 +44,31 @@
 <!-- ## 🔗 &nbsp;Links -->
 <h2> Mídias Sociais <img height="20px" src="https://user-images.githubusercontent.com/50364832/143620129-a7cf3435-8c3d-45f1-89fc-a64836558c39.gif" /> </h2>
 
-<div>
-      <div class="image" align="left">
-        <img src= "https://user-images.githubusercontent.com/95099882/144245286-c994f15d-8a97-48b2-bd14-5b7a4d83f01d.png"/>
-      </div>
-
-      <div class="links_box" align="center">
-
-        <a href="https://www.linkedin.com/in/joao-henrique-g-esteves-iat-bi"/>
-            <img src= "https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=8A2BE2"/>
-        </a>
-    [![Email Badge](https://img.shields.io/badge/Email-1C1C1C?style=for-the-badge&logo=gmail&logoColor=8A2BE2)](mailto:joaohesteves@msn.com)
-    [![Instagran Badge](https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=8A2BE2)](https://www.instagram.com/joaohesteves.ti/)
+ <div class="image1" >
+            <img height="100px" src= "https://user-images.githubusercontent.com/95099882/144245286-c994f15d-8a97-48b2-bd14-5b7a4d83f01d.png"/>
+            
+            <img  src= "https://user-images.githubusercontent.com/95099882/144245286-c994f15d-8a97-48b2-bd14-5b7a4d83f01d.png"/>
         </div>
-                                                                                                                       
-       <div class="image" align="right">                                                                                                                 
-          <img src= "https://user-images.githubusercontent.com/95099882/144250831-994077d6-050d-4643-9b5f-9b8d381ece95.png"/>
-       </div>
+ 
+        <div class="links_box">
+
+            <a href="https://www.linkedin.com/in/joao-henrique-g-esteves-iat-bi"/>
+                <img src= "https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=8A2BE2" alt="linkedin Badge"/>
+            </a>
+            <a href="mailto:joaohesteves@msn.com">
+                <img src="https://img.shields.io/badge/Email-1C1C1C?style=for-the-badge&logo=gmail&logoColor=8A2BE2" alt="Email Badge">
+            </a>
+            <a href="https://www.instagram.com/joaohesteves.ti/">
+                <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=8A2BE2" alt="Instagran Badge">
+            </a>
+    
+        </div>
+
+            <div class="image2">                     
+                 <img src= "https://user-images.githubusercontent.com/95099882/144250831-994077d6-050d-4643-9b5f-9b8d381ece95.png"/>
+             </div>
       
- </div>
+ 
   [![Email Badge](https://img.shields.io/badge/Email-1C1C1C?style=for-the-badge&logo=gmail&logoColor=8A2BE2)](mailto:joaohesteves@msn.com)
     [![Instagran Badge](https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=8A2BE2)](https://www.instagram.com/joaohesteves.ti/)
     
