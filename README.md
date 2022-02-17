@@ -24,7 +24,7 @@
 
 <div font-size="30px">
   <a  href= https://joao-h-esteves.github.io/JOAO-HTML/  >
-   <img height= "45px" src="https://raw.githubusercontent.com/melihaksoy/HoldToLoadLayout/master/gifs/htl_4.gif"/> &nbsp **Aqui encontram-se os projetos e trabalhos dos cursos que fiz.** &nbsp <img height= "45px" src="https://raw.githubusercontent.com/melihaksoy/HoldToLoadLayout/master/gifs/htl_4.gif"/>
+   <img height= "45px" src="https://raw.githubusercontent.com/melihaksoy/HoldToLoadLayout/master/gifs/htl_4.gif"/> &nbsp  Projetos, Trabalhos e Cursos &nbsp <img height= "45px" src="https://raw.githubusercontent.com/melihaksoy/HoldToLoadLayout/master/gifs/htl_4.gif"/>
       </a>
  
 </div>
