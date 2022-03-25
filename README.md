@@ -34,7 +34,7 @@
 
 ## Meus Cursos
 <p font-size="30px">
-  <a  href= https://joao-h-esteves.github.io/Meu-GitHub---Ola-Mundo/>
+  <a  href= https://joao-h-esteves.github.io/Joao-certificados/>
     📄 &nbsp **Certificados** &nbsp📃
   </a>
 </p>
