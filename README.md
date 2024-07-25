@@ -9,7 +9,7 @@
 *  __Cursando Pós em Gestão de Projetos e Metodologias Ágeis.__
 *  __Apaixonado por Projetos e por pessoas.__
 *  __Vontade de aprender e ensinar.__
-*  __Um Nerd apaixonado por códigos e desafios.__
+*  __Um Nerd que adora desafios.__
   </br></br>
   
   ### Bem vindo ao meu GitHub <img height="30px" src="https://user-images.githubusercontent.com/50364832/143615313-330ef73e-ee1c-4cfe-b71d-7462a00f16b4.gif" />
