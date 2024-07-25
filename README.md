@@ -5,8 +5,9 @@
 
 </br>
 
-*  __Sou um Estudante/Analista iniciando na área.__
-*  __Cursando Análise e desenvolvimento de sistemas.__
+*  __Sua um Analista de sistemas.__
+*  __Cursando Pós em Gestão de Projetos e Metodologias Ágeis.__
+*  __Apaixonado por Projetos e por pessoas.__
 *  __Vontade de aprender e ensinar.__
 *  __Um Nerd apaixonado por códigos e desafios.__
   </br></br>
