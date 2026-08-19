@@ -6,7 +6,6 @@
 </br>
 
 *  __Sou Gerente de Projetos.__
-*  __Cursando Pós em Gestão de Projetos e Metodologias Ágeis.__
 *  __Apaixonado por Projetos e por pessoas.__
 *  __Vontade de aprender e ensinar.__
 *  __Um Nerd que adora desafios.__
