@@ -4,7 +4,7 @@
 
 ### Technology Project Manager | PMO | Digital Transformation
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Joao-H-Esteves&color=blueviolet&label=Visualizações+do+perfil&style=flat-square)](https://github.com/Joao-H-Esteves)
+[![Profile Views](https://komarev.com/ghpvc/?username=Joao-h-Etesves&color=blueviolet&label=Visualizações+do+perfil&style=flat-square)](https://github.com/Joao-H-Esteves)
 
 Gerente de Projetos de Tecnologia com foco em **governança, transformação de processos e entrega de soluções corporativas**.
 
