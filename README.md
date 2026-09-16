@@ -81,17 +81,19 @@ Background técnico em sistemas e desenvolvimento aplicado hoje à conexão entr
     <td valign="top">
       <img src="assets/enterprise-systems.svg" width="54" alt="Enterprise Systems" align="left" />
       <strong>ENTERPRISE SYSTEMS</strong><br>
-      <sub>ERP &amp; soluções corporativas</sub>
+      <sub>ERP &amp; soluções corporativas</sub><br><br>
+      <a href="https://github.com/Joao-H-Esteves/case-migracao-folha-pessoas-plus"><strong>Case 02 — Migração da Folha de Pagamento para Sankhya Pessoas+</strong></a>
     </td>
-    <td valign="top">Implantação, migração e evolução de sistemas corporativos, conectando processos, dados e áreas de negócio.</td>
+    <td valign="top">Migração da folha de pagamento do ambiente legado MGE para o Sankhya Pessoas+, com capacitação de Key Users, homologação, eSocial, Benefícios, Go-Live, operação assistida e handover para sustentação.</td>
     <td valign="top">
-      <img src="https://img.shields.io/badge/ERP-1C1C1C?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/Migra%C3%A7%C3%A3o-8A2BE2?style=for-the-badge" /><br>
-      <img src="https://img.shields.io/badge/Integra%C3%A7%C3%B5es-6C4AB6?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Sankhya-1C1C1C?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Pessoas%2B-8A2BE2?style=for-the-badge" /><br>
+      <img src="https://img.shields.io/badge/eSocial-6C4AB6?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/SAP-1C1C1C?style=for-the-badge&logo=sap&logoColor=white" />
     </td>
     <td valign="middle" align="center">
       <img src="https://img.shields.io/badge/GitHub-1C1C1C?style=for-the-badge&logo=github&logoColor=white" /><br><br>
-      <img src="https://img.shields.io/badge/EM%20BREVE-6C4AB6?style=for-the-badge" />
+      <a href="https://github.com/Joao-H-Esteves/case-migracao-folha-pessoas-plus"><img src="https://img.shields.io/badge/VER%20CASE-8A2BE2?style=for-the-badge&logo=github&logoColor=white" /></a>
     </td>
   </tr>
   <tr>
