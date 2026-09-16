@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="355px" align="right" alt="Ilustração de computador" />
 
-# João Henrique Cruzão Esteves
+# João Henrique Gusmão Esteves
 
 ### Technology Project Manager | PMO | Digital Transformation
 
