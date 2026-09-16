@@ -53,50 +53,118 @@ Background técnico em sistemas e desenvolvimento aplicado hoje à conexão entr
 
 <table align="center" width="100%">
   <tr>
-    <th align="center" width="24%">ÁREA / PROJETO</th>
-    <th align="center" width="42%">DESCRIÇÃO</th>
-    <th align="center" width="19%">TECNOLOGIAS / CONTEXTO</th>
+    <th align="left" width="25%">ÁREA / PROJETO</th>
+    <th align="left" width="35%">DESCRIÇÃO</th>
+    <th align="left" width="25%">TECNOLOGIAS / CONTEXTO</th>
     <th align="center" width="15%">ACESSO</th>
   </tr>
   <tr>
-    <td valign="top"><strong>PROCESS AUTOMATION</strong><br><br><strong>Case 01 — Automação da Gestão de Documentos Fiscais</strong></td>
+    <td valign="top">
+      <img src="assets/process-automation.svg" width="54" alt="Process Automation" align="left" />
+      <strong>PROCESS AUTOMATION</strong><br>
+      <sub>Automação de processos</sub><br><br>
+      <a href="https://github.com/Joao-H-Esteves/case-automacao-gestao-documentos-fiscais"><strong>Case 01 — Automação da Gestão de Documentos Fiscais</strong></a>
+    </td>
     <td valign="top">Implantação de solução corporativa para automação, governança e centralização de documentos fiscais, com expansão de escopo, replanejamento, treinamento, Go-Live e transição para operação.</td>
-    <td align="center" valign="middle"><strong>SAP</strong><br><strong>Sankhya</strong><br><strong>FBN</strong></td>
-    <td align="center" valign="middle"><a href="https://github.com/Joao-H-Esteves/case-automacao-gestao-documentos-fiscais"><img src="https://img.shields.io/badge/VER%20CASE-8A2BE2?style=for-the-badge&logo=github&logoColor=white" /></a></td>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/SAP-1C1C1C?style=for-the-badge&logo=sap&logoColor=white" />
+      <img src="https://img.shields.io/badge/Sankhya-8A2BE2?style=for-the-badge" /><br>
+      <img src="https://img.shields.io/badge/FBN-6C4AB6?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Automa%C3%A7%C3%A3o%20Fiscal-1C1C1C?style=for-the-badge" />
+    </td>
+    <td valign="middle" align="center">
+      <img src="https://img.shields.io/badge/GitHub-1C1C1C?style=for-the-badge&logo=github&logoColor=white" /><br><br>
+      <a href="https://github.com/Joao-H-Esteves/case-automacao-gestao-documentos-fiscais"><img src="https://img.shields.io/badge/VER%20CASE-8A2BE2?style=for-the-badge&logo=github&logoColor=white" /></a>
+    </td>
   </tr>
   <tr>
-    <td valign="top"><strong>ENTERPRISE SYSTEMS</strong><br><sub>ERP &amp; soluções corporativas</sub></td>
-    <td valign="top">Implantação, migração e evolução de sistemas corporativos.</td>
-    <td align="center" valign="middle"><sub>Em breve</sub></td>
-    <td align="center" valign="middle">—</td>
+    <td valign="top">
+      <img src="assets/enterprise-systems.svg" width="54" alt="Enterprise Systems" align="left" />
+      <strong>ENTERPRISE SYSTEMS</strong><br>
+      <sub>ERP &amp; soluções corporativas</sub>
+    </td>
+    <td valign="top">Implantação, migração e evolução de sistemas corporativos, conectando processos, dados e áreas de negócio.</td>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/ERP-1C1C1C?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Migra%C3%A7%C3%A3o-8A2BE2?style=for-the-badge" /><br>
+      <img src="https://img.shields.io/badge/Integra%C3%A7%C3%B5es-6C4AB6?style=for-the-badge" />
+    </td>
+    <td valign="middle" align="center">
+      <img src="https://img.shields.io/badge/GitHub-1C1C1C?style=for-the-badge&logo=github&logoColor=white" /><br><br>
+      <img src="https://img.shields.io/badge/EM%20BREVE-6C4AB6?style=for-the-badge" />
+    </td>
   </tr>
   <tr>
-    <td valign="top"><strong>ITSM &amp; SERVICES</strong><br><sub>Gestão de serviços</sub></td>
-    <td valign="top">Estruturação e evolução de processos e plataformas de gestão de serviços.</td>
-    <td align="center" valign="middle"><sub>Em breve</sub></td>
-    <td align="center" valign="middle">—</td>
+    <td valign="top">
+      <img src="assets/itsm-services.svg" width="54" alt="ITSM & Services" align="left" />
+      <strong>ITSM &amp; SERVICES</strong><br>
+      <sub>Gestão de serviços</sub>
+    </td>
+    <td valign="top">Estruturação e evolução de processos e plataformas de gestão de serviços, com foco em fluxo, governança e experiência operacional.</td>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/ITSM-1C1C1C?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Servi%C3%A7os-8A2BE2?style=for-the-badge" /><br>
+      <img src="https://img.shields.io/badge/Processos-6C4AB6?style=for-the-badge" />
+    </td>
+    <td valign="middle" align="center">
+      <img src="https://img.shields.io/badge/GitHub-1C1C1C?style=for-the-badge&logo=github&logoColor=white" /><br><br>
+      <img src="https://img.shields.io/badge/EM%20BREVE-6C4AB6?style=for-the-badge" />
+    </td>
   </tr>
   <tr>
-    <td valign="top"><strong>DIGITAL TRANSFORMATION</strong><br><sub>Integrações &amp; evolução tecnológica</sub></td>
-    <td valign="top">Integrações, automações e iniciativas de transformação de processos e tecnologia.</td>
-    <td align="center" valign="middle"><sub>Em breve</sub></td>
-    <td align="center" valign="middle">—</td>
+    <td valign="top">
+      <img src="assets/digital-transformation.svg" width="54" alt="Digital Transformation" align="left" />
+      <strong>DIGITAL TRANSFORMATION</strong><br>
+      <sub>Integrações &amp; evolução tecnológica</sub>
+    </td>
+    <td valign="top">Integrações, automações e iniciativas de transformação de processos e tecnologia orientadas a eficiência e evolução operacional.</td>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/Integra%C3%A7%C3%B5es-1C1C1C?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Automa%C3%A7%C3%A3o-8A2BE2?style=for-the-badge" /><br>
+      <img src="https://img.shields.io/badge/Evolu%C3%A7%C3%A3o-6C4AB6?style=for-the-badge" />
+    </td>
+    <td valign="middle" align="center">
+      <img src="https://img.shields.io/badge/GitHub-1C1C1C?style=for-the-badge&logo=github&logoColor=white" /><br><br>
+      <img src="https://img.shields.io/badge/EM%20BREVE-6C4AB6?style=for-the-badge" />
+    </td>
   </tr>
   <tr>
-    <td valign="top"><strong>AGILE DELIVERY</strong><br><sub>Azure DevOps &amp; execução</sub></td>
-    <td valign="top">Organização da execução, rastreabilidade e gestão visual do trabalho.</td>
-    <td align="center" valign="middle"><sub>Em breve</sub></td>
-    <td align="center" valign="middle">—</td>
+    <td valign="top">
+      <img src="assets/agile-delivery.svg" width="54" alt="Agile Delivery" align="left" />
+      <strong>AGILE DELIVERY</strong><br>
+      <sub>Azure DevOps &amp; execução</sub>
+    </td>
+    <td valign="top">Organização da execução, rastreabilidade e gestão visual do trabalho em contextos ágeis e híbridos.</td>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/Azure%20DevOps-1C1C1C?style=for-the-badge&logo=azuredevops&logoColor=white" />
+      <img src="https://img.shields.io/badge/Scrum-8A2BE2?style=for-the-badge" /><br>
+      <img src="https://img.shields.io/badge/Kanban-6C4AB6?style=for-the-badge" />
+    </td>
+    <td valign="middle" align="center">
+      <img src="https://img.shields.io/badge/GitHub-1C1C1C?style=for-the-badge&logo=github&logoColor=white" /><br><br>
+      <img src="https://img.shields.io/badge/EM%20BREVE-6C4AB6?style=for-the-badge" />
+    </td>
   </tr>
   <tr>
-    <td valign="top"><strong>PMO &amp; GOVERNANCE</strong><br><sub>Controles &amp; governança</sub></td>
-    <td valign="top">Governança de projetos, indicadores, riscos, decisões e padronização.</td>
-    <td align="center" valign="middle"><sub>Em breve</sub></td>
-    <td align="center" valign="middle">—</td>
+    <td valign="top">
+      <img src="assets/pmo-governance.svg" width="54" alt="PMO & Governance" align="left" />
+      <strong>PMO &amp; GOVERNANCE</strong><br>
+      <sub>Controles &amp; governança</sub>
+    </td>
+    <td valign="top">Governança de projetos, indicadores, riscos, decisões, padronização e visibilidade executiva do portfólio.</td>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/PMO-1C1C1C?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Governan%C3%A7a-8A2BE2?style=for-the-badge" /><br>
+      <img src="https://img.shields.io/badge/Riscos-6C4AB6?style=for-the-badge" />
+    </td>
+    <td valign="middle" align="center">
+      <img src="https://img.shields.io/badge/GitHub-1C1C1C?style=for-the-badge&logo=github&logoColor=white" /><br><br>
+      <img src="https://img.shields.io/badge/EM%20BREVE-6C4AB6?style=for-the-badge" />
+    </td>
   </tr>
 </table>
 
-<p align="center"><sub>Novos cases serão adicionados progressivamente conforme os projetos forem reconstruídos e documentados para o portfólio.</sub></p>
+<p align="center"><sub>Os cases estão organizados por área de atuação e novos projetos serão adicionados progressivamente conforme forem reconstruídos e documentados para o portfólio.</sub></p>
 
 > **Confidentiality by design:** os cases deste portfólio utilizam anonimização, generalização e/ou dados sintéticos. Documentos corporativos originais, dados pessoais, informações financeiras, credenciais e arquitetura sensível não são reproduzidos.
 
