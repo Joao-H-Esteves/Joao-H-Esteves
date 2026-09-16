@@ -146,7 +146,7 @@ Background técnico em sistemas e desenvolvimento aplicado hoje à conexão entr
 <div align="center">
   <strong>CONTATO & FORMAÇÃO</strong>
   <br><br>
-  <a href="https://www.linkedin.com/in/joao-henrique-g-esteves-iat-bi/"><img src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=B57EDC" /></a>
+  <a href="https://www.linkedin.com/in/joao-henrique-g-esteves-gestao-projetos/"><img src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=B57EDC" /></a>
   <a href="mailto:joaohesteves@msn.com"><img src="https://img.shields.io/badge/Email-1C1C1C?style=for-the-badge&logo=microsoftoutlook&logoColor=B57EDC" /></a>
   <a href="https://joao-h-esteves.github.io/Joao-certificados/"><img src="https://img.shields.io/badge/Certificados-1C1C1C?style=for-the-badge&logo=readthedocs&logoColor=B57EDC" /></a>
 </div>
