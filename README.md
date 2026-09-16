@@ -51,13 +51,33 @@ Background técnico em sistemas e desenvolvimento aplicado hoje à conexão entr
 
 <p align="center"><strong>Cases profissionais reconstruídos para demonstrar contexto, abordagem de gestão, decisões, artefatos e resultados — sem exposição de informações corporativas sensíveis.</strong></p>
 
-| ENTERPRISE SYSTEMS | PROCESS AUTOMATION | ITSM & SERVICES |
-| :---: | :---: | :---: |
-| ERP & soluções corporativas | Workflows & digitalização | Gestão de serviços |
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="33.33%"><strong>ENTERPRISE SYSTEMS</strong></td>
+    <td align="center" width="33.33%"><strong>PROCESS AUTOMATION</strong></td>
+    <td align="center" width="33.33%"><strong>ITSM &amp; SERVICES</strong></td>
+  </tr>
+  <tr>
+    <td align="center">ERP &amp; soluções corporativas</td>
+    <td align="center">Workflows &amp; digitalização</td>
+    <td align="center">Gestão de serviços</td>
+  </tr>
+</table>
 
-| DIGITAL TRANSFORMATION | AGILE DELIVERY | PMO & GOVERNANCE |
-| :---: | :---: | :---: |
-| Integrações & evolução tecnológica | Azure DevOps & execução | Controles & governança |
+<br>
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="33.33%"><strong>DIGITAL TRANSFORMATION</strong></td>
+    <td align="center" width="33.33%"><strong>AGILE DELIVERY</strong></td>
+    <td align="center" width="33.33%"><strong>PMO &amp; GOVERNANCE</strong></td>
+  </tr>
+  <tr>
+    <td align="center">Integrações &amp; evolução tecnológica</td>
+    <td align="center">Azure DevOps &amp; execução</td>
+    <td align="center">Controles &amp; governança</td>
+  </tr>
+</table>
 
 <p align="center"><sub>Os primeiros case studies serão adicionados progressivamente, iniciando pelos projetos profissionais mais antigos.</sub></p>
 
