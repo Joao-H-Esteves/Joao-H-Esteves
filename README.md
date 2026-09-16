@@ -79,7 +79,19 @@ Background técnico em sistemas e desenvolvimento aplicado hoje à conexão entr
   </tr>
 </table>
 
-<p align="center"><sub>Os primeiros case studies serão adicionados progressivamente, iniciando pelos projetos profissionais mais antigos.</sub></p>
+<br>
+
+<div align="center">
+  <strong>CASE PUBLICADO</strong>
+  <br><br>
+  <a href="https://github.com/Joao-H-Esteves/case-automacao-gestao-documentos-fiscais"><strong>Automação da Gestão de Documentos Fiscais</strong></a>
+  <br>
+  <sub>Implantação de solução corporativa para automação, governança e centralização de documentos fiscais.</sub>
+  <br><br>
+  <a href="https://github.com/Joao-H-Esteves/case-automacao-gestao-documentos-fiscais"><img src="https://img.shields.io/badge/VER%20CASE-8A2BE2?style=for-the-badge&logo=github&logoColor=white" /></a>
+</div>
+
+<p align="center"><sub>Novos cases serão adicionados progressivamente, iniciando pelos projetos profissionais mais antigos.</sub></p>
 
 > **Confidentiality by design:** os cases deste portfólio utilizam anonimização, generalização e/ou dados sintéticos. Documentos corporativos originais, dados pessoais, informações financeiras, credenciais e arquitetura sensível não são reproduzidos.
 
