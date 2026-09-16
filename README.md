@@ -1,71 +1,156 @@
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="355px" align="right" alt="Ilustração de computador" />
+
+# João Henrique Gusmão Esteves
+
+### Technology Project Manager | PMO | Digital Transformation
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Joao-H-Esteves&color=blueviolet&label=Visualizações+do+perfil&style=flat-square)](https://github.com/Joao-H-Esteves)
+
+Gerente de Projetos de Tecnologia com foco em **governança, transformação de processos e entrega de soluções corporativas**.
+
+Background técnico em sistemas e desenvolvimento aplicado hoje à conexão entre **estratégia, negócio, pessoas e tecnologia**.
+
+<br clear="right"/>
+
 ---
 
-# Gestão de Projetos e fuçador em códigos 💻 <img src="https://komarev.com/ghpvc/?username=Joao-h-Etesves&color=blueviolet&label=Visualizações+do+perfil&style=flat-square" align="right"/>
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer Joao H">
-
-</br>
-
-*  __Sou Gerente de Projetos.__
-*  __Apaixonado por Projetos e por pessoas.__
-*  __Vontade de aprender e ensinar.__
-*  __Um Nerd que adora desafios.__
-  </br></br>
-  
-  ### Bem vindo ao meu GitHub <img height="30px" src="https://user-images.githubusercontent.com/50364832/143615313-330ef73e-ee1c-4cfe-b71d-7462a00f16b4.gif" />
-  
-  ---
-  
-
-   
-   
-## Portifólio <img height="30px"  src="https://user-images.githubusercontent.com/50364832/143619165-74c703be-b3a3-4902-9563-07928511c2bc.gif" />
- 
-
-
-<div font-size="30px">
-  <a  href= https://joao-h-esteves.github.io/JOAO-HTML/  >
-   <img height= "45px" src="https://raw.githubusercontent.com/melihaksoy/HoldToLoadLayout/master/gifs/htl_4.gif"/> &nbsp  Projetos, Trabalhos e Cursos &nbsp <img height= "45px" src="https://raw.githubusercontent.com/melihaksoy/HoldToLoadLayout/master/gifs/htl_4.gif"/>
-      </a>
- 
+<div align="center">
+  <img src="assets/briefcase.svg" width="38" alt="" />
+  &nbsp;&nbsp;
+  <strong>ATUAÇÃO PROFISSIONAL</strong>
+  &nbsp;&nbsp;
+  <img src="assets/briefcase.svg" width="38" alt="" />
 </div>
 
-</br></br>
+<br>
 
+| Gestão & Governança | Entrega & Transformação |
+| --- | --- |
+| **Project Management** — planejamento, execução, controle e encerramento | **Agile & Hybrid Delivery** — Scrum, Kanban e modelos híbridos |
+| **PMO & Governança** — indicadores, riscos, decisões e rastreabilidade | **Process Automation** — workflows, digitalização e melhoria de processos |
+| **Stakeholder Management** — alinhamento entre negócio e tecnologia | **Enterprise Systems** — ERP, ITSM, integrações e dados |
 
-## Meus Cursos
-<p font-size="30px">
-  <a  href= https://joao-h-esteves.github.io/Joao-certificados/>
-    📄 &nbsp **Certificados** &nbsp📃
-  </a>
-</p>
-
-</br></br>
-
-<!-- ## 🔗 &nbsp;Links -->
-<h2> Mídias Sociais <img height="20px" src="https://user-images.githubusercontent.com/50364832/143620129-a7cf3435-8c3d-45f1-89fc-a64836558c39.gif" /> </h2>
-
-
-![stormtroopocatPP](https://user-images.githubusercontent.com/95099882/144245286-c994f15d-8a97-48b2-bd14-5b7a4d83f01d.png)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=8A2BE2)](https://www.linkedin.com/in/joao-henrique-g-esteves-iat-bi/)
-[![Email Badge](https://img.shields.io/badge/Email-1C1C1C?style=for-the-badge&logo=gmail&logoColor=8A2BE2)](mailto:joaohesteves@msn.com)
-[![Instagran Badge](https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=8A2BE2)](https://www.instagram.com/joaohesteves.ti/)
-![RobotocatPP](https://user-images.githubusercontent.com/95099882/144250831-994077d6-050d-4643-9b5f-9b8d381ece95.png):
-
----
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-h-esteves&layout=compact"
-    />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=joao-h-esteves&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
-    />
-  </a>
+  <img src="https://img.shields.io/badge/PROJECT%20MANAGEMENT-1C1C1C?style=for-the-badge&labelColor=1C1C1C" />
+  <img src="https://img.shields.io/badge/PMO-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AGILE-6C4AB6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AZURE%20DEVOPS-8A2BE2?style=for-the-badge&logo=azuredevops&logoColor=white" />
 </p>
 
 ---
+
+<div align="center">
+  <img src="assets/portfolio.svg" width="40" alt="" />
+  &nbsp;&nbsp;
+  <strong>PROJECT MANAGEMENT PORTFOLIO</strong>
+  &nbsp;&nbsp;
+  <img src="assets/portfolio.svg" width="40" alt="" />
+</div>
+
+<br>
+
+<p align="center"><strong>Cases profissionais reconstruídos para demonstrar contexto, abordagem de gestão, decisões, artefatos e resultados — sem exposição de informações corporativas sensíveis.</strong></p>
+
+| ENTERPRISE SYSTEMS | PROCESS AUTOMATION | ITSM & SERVICES |
+| :---: | :---: | :---: |
+| ERP & soluções corporativas | Workflows & digitalização | Gestão de serviços |
+
+| DIGITAL TRANSFORMATION | AGILE DELIVERY | PMO & GOVERNANCE |
+| :---: | :---: | :---: |
+| Integrações & evolução tecnológica | Azure DevOps & execução | Controles & governança |
+
+<p align="center"><sub>Os primeiros case studies serão adicionados progressivamente, iniciando pelos projetos profissionais mais antigos.</sub></p>
+
+> **Confidentiality by design:** os cases deste portfólio utilizam anonimização, generalização e/ou dados sintéticos. Documentos corporativos originais, dados pessoais, informações financeiras, credenciais e arquitetura sensível não são reproduzidos.
+
+---
+
+<div align="center">
+  <img src="assets/roadmap.svg" width="42" alt="" />
+  &nbsp;&nbsp;
+  <strong>COMO ESTRUTURO PROJETOS</strong>
+  &nbsp;&nbsp;
+  <img src="assets/roadmap.svg" width="42" alt="" />
+</div>
+
+<br>
+
+<p align="center">
+  <strong>INICIAÇÃO</strong> &nbsp;→&nbsp; <strong>PLANEJAMENTO</strong> &nbsp;→&nbsp; <strong>EXECUÇÃO</strong> &nbsp;→&nbsp; <strong>MONITORAMENTO & CONTROLE</strong> &nbsp;→&nbsp; <strong>ENCERRAMENTO</strong>
+</p>
+
+<p align="center">Preditivo &nbsp;•&nbsp; Ágil &nbsp;•&nbsp; Híbrido</p>
+
+---
+
+<div align="center">
+  <img src="assets/gear-animated.svg" width="40" alt="Engrenagem animada" />
+  &nbsp;&nbsp;
+  <strong>FERRAMENTAS, MÉTODOS & DISCIPLINAS</strong>
+  &nbsp;&nbsp;
+  <img src="assets/gear-animated.svg" width="40" alt="Engrenagem animada" />
+</div>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PMBOK-1C1C1C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Scrum-8A2BE2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Kanban-6C4AB6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Azure%20DevOps-1C1C1C?style=flat-square&logo=azuredevops&logoColor=B57EDC" />
+  <img src="https://img.shields.io/badge/BPMN-8A2BE2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Risk%20Management-6C4AB6?style=flat-square" />
+  <img src="https://img.shields.io/badge/ERP-1C1C1C?style=flat-square" />
+  <img src="https://img.shields.io/badge/ITSM-8A2BE2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Excel-6C4AB6?style=flat-square&logo=microsoftexcel&logoColor=white" />
+</p>
+
+---
+
+<div align="center">
+  <img src="assets/terminal.svg" width="40" alt="" />
+  &nbsp;&nbsp;
+  <strong>TECHNICAL ROOTS</strong>
+  &nbsp;&nbsp;
+  <img src="assets/terminal.svg" width="40" alt="" />
+</div>
+
+<br>
+
+<p align="center">Minha trajetória começou mais próxima do código: programação, bancos de dados, desenvolvimento web e infraestrutura.</p>
+<p align="center"><strong>Hoje essa base técnica é um diferencial na gestão de projetos de tecnologia.</strong></p>
+<p align="center"><sub>Os repositórios antigos permanecem disponíveis como registro dessa evolução profissional.</sub></p>
+
+---
+
+<div align="center">
+  <img src="assets/tools.svg" width="38" alt="" />
+  &nbsp;&nbsp;
+  <strong>GEEK CORNER</strong>
+  &nbsp;&nbsp;
+  <img src="assets/tools.svg" width="38" alt="" />
+</div>
+
+<br>
+
+<p align="center">Tecnologia, ficção científica, computadores, games e cultura geek também fazem parte da minha identidade.</p>
+
+<p align="center">
+  <img height="115px" src="https://user-images.githubusercontent.com/95099882/144245286-c994f15d-8a97-48b2-bd14-5b7a4d83f01d.png" alt="Geek Octocat" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="115px" src="https://user-images.githubusercontent.com/95099882/144250831-994077d6-050d-4643-9b5f-9b8d381ece95.png" alt="Robot Octocat" />
+</p>
+
+---
+
+<div align="center">
+  <strong>CONTATO & FORMAÇÃO</strong>
+  <br><br>
+  <a href="https://www.linkedin.com/in/joao-henrique-g-esteves-iat-bi/"><img src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=B57EDC" /></a>
+  <a href="mailto:joaohesteves@msn.com"><img src="https://img.shields.io/badge/Email-1C1C1C?style=for-the-badge&logo=microsoftoutlook&logoColor=B57EDC" /></a>
+  <a href="https://joao-h-esteves.github.io/Joao-certificados/"><img src="https://img.shields.io/badge/Certificados-1C1C1C?style=for-the-badge&logo=readthedocs&logoColor=B57EDC" /></a>
+</div>
+
+<br>
+
+<p align="center"><strong>Projetos conectam estratégia, pessoas, processos e tecnologia.</strong></p>
