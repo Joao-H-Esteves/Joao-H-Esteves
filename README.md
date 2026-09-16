@@ -53,45 +53,50 @@ Background técnico em sistemas e desenvolvimento aplicado hoje à conexão entr
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="33.33%"><strong>ENTERPRISE SYSTEMS</strong></td>
-    <td align="center" width="33.33%"><strong>PROCESS AUTOMATION</strong></td>
-    <td align="center" width="33.33%"><strong>ITSM &amp; SERVICES</strong></td>
+    <th align="center" width="24%">ÁREA / PROJETO</th>
+    <th align="center" width="42%">DESCRIÇÃO</th>
+    <th align="center" width="19%">TECNOLOGIAS / CONTEXTO</th>
+    <th align="center" width="15%">ACESSO</th>
   </tr>
   <tr>
-    <td align="center">ERP &amp; soluções corporativas</td>
-    <td align="center">Workflows &amp; digitalização</td>
-    <td align="center">Gestão de serviços</td>
+    <td valign="top"><strong>PROCESS AUTOMATION</strong><br><br><strong>Case 01 — Automação da Gestão de Documentos Fiscais</strong></td>
+    <td valign="top">Implantação de solução corporativa para automação, governança e centralização de documentos fiscais, com expansão de escopo, replanejamento, treinamento, Go-Live e transição para operação.</td>
+    <td align="center" valign="middle"><strong>SAP</strong><br><strong>Sankhya</strong><br><strong>FBN</strong></td>
+    <td align="center" valign="middle"><a href="https://github.com/Joao-H-Esteves/case-automacao-gestao-documentos-fiscais"><img src="https://img.shields.io/badge/VER%20CASE-8A2BE2?style=for-the-badge&logo=github&logoColor=white" /></a></td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>ENTERPRISE SYSTEMS</strong><br><sub>ERP &amp; soluções corporativas</sub></td>
+    <td valign="top">Implantação, migração e evolução de sistemas corporativos.</td>
+    <td align="center" valign="middle"><sub>Em breve</sub></td>
+    <td align="center" valign="middle">—</td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>ITSM &amp; SERVICES</strong><br><sub>Gestão de serviços</sub></td>
+    <td valign="top">Estruturação e evolução de processos e plataformas de gestão de serviços.</td>
+    <td align="center" valign="middle"><sub>Em breve</sub></td>
+    <td align="center" valign="middle">—</td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>DIGITAL TRANSFORMATION</strong><br><sub>Integrações &amp; evolução tecnológica</sub></td>
+    <td valign="top">Integrações, automações e iniciativas de transformação de processos e tecnologia.</td>
+    <td align="center" valign="middle"><sub>Em breve</sub></td>
+    <td align="center" valign="middle">—</td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>AGILE DELIVERY</strong><br><sub>Azure DevOps &amp; execução</sub></td>
+    <td valign="top">Organização da execução, rastreabilidade e gestão visual do trabalho.</td>
+    <td align="center" valign="middle"><sub>Em breve</sub></td>
+    <td align="center" valign="middle">—</td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>PMO &amp; GOVERNANCE</strong><br><sub>Controles &amp; governança</sub></td>
+    <td valign="top">Governança de projetos, indicadores, riscos, decisões e padronização.</td>
+    <td align="center" valign="middle"><sub>Em breve</sub></td>
+    <td align="center" valign="middle">—</td>
   </tr>
 </table>
 
-<br>
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="33.33%"><strong>DIGITAL TRANSFORMATION</strong></td>
-    <td align="center" width="33.33%"><strong>AGILE DELIVERY</strong></td>
-    <td align="center" width="33.33%"><strong>PMO &amp; GOVERNANCE</strong></td>
-  </tr>
-  <tr>
-    <td align="center">Integrações &amp; evolução tecnológica</td>
-    <td align="center">Azure DevOps &amp; execução</td>
-    <td align="center">Controles &amp; governança</td>
-  </tr>
-</table>
-
-<br>
-
-<div align="center">
-  <strong>CASE PUBLICADO</strong>
-  <br><br>
-  <a href="https://github.com/Joao-H-Esteves/case-automacao-gestao-documentos-fiscais"><strong>Automação da Gestão de Documentos Fiscais</strong></a>
-  <br>
-  <sub>Implantação de solução corporativa para automação, governança e centralização de documentos fiscais.</sub>
-  <br><br>
-  <a href="https://github.com/Joao-H-Esteves/case-automacao-gestao-documentos-fiscais"><img src="https://img.shields.io/badge/VER%20CASE-8A2BE2?style=for-the-badge&logo=github&logoColor=white" /></a>
-</div>
-
-<p align="center"><sub>Novos cases serão adicionados progressivamente, iniciando pelos projetos profissionais mais antigos.</sub></p>
+<p align="center"><sub>Novos cases serão adicionados progressivamente conforme os projetos forem reconstruídos e documentados para o portfólio.</sub></p>
 
 > **Confidentiality by design:** os cases deste portfólio utilizam anonimização, generalização e/ou dados sintéticos. Documentos corporativos originais, dados pessoais, informações financeiras, credenciais e arquitetura sensível não são reproduzidos.
 
