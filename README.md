@@ -163,9 +163,9 @@ Background técnico em sistemas e desenvolvimento aplicado hoje à conexão entr
 <div align="center">
   <strong>CONTATO & FORMAÇÃO</strong>
   <br><br>
-  <a href="https://www.linkedin.com/in/joao-henrique-g-esteves-gestao-projetos/"><img src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=4F7FC7" /></a>
-  <a href="mailto:joaohesteves@msn.com"><img src="https://img.shields.io/badge/Email-1C1C1C?style=for-the-badge&logo=microsoftoutlook&logoColor=8A2BE2" /></a>
-  <a href="https://www.linkedin.com/in/joao-henrique-g-esteves-gestao-projetos/"><img src="https://img.shields.io/badge/Certifica%C3%A7%C3%B5es-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=B57EDC" /></a>
+  <a href="https://www.linkedin.com/in/joao-henrique-g-esteves-gestao-projetos/"><img src="https://img.shields.io/badge/LinkedIn-4F7FC7?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:joaohesteves@msn.com"><img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/joao-henrique-g-esteves-gestao-projetos/"><img src="https://img.shields.io/badge/Certifica%C3%A7%C3%B5es-B57EDC?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
 <br>
