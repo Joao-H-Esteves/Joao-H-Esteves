@@ -55,114 +55,44 @@ Background técnico em sistemas e desenvolvimento aplicado hoje à conexão entr
   <tr>
     <th align="left" width="25%">ÁREA / PROJETO</th>
     <th align="left" width="35%">DESCRIÇÃO</th>
-    <th align="left" width="25%">TECNOLOGIAS / CONTEXTO</th>
+    <th align="center" width="25%">TECNOLOGIAS / CONTEXTO</th>
     <th align="center" width="15%">ACESSO</th>
   </tr>
   <tr>
-    <td valign="top">
-      <img src="assets/process-automation.svg" width="54" alt="Process Automation" align="left" />
-      <strong>PROCESS AUTOMATION</strong><br>
-      <sub>Automação de processos</sub><br><br>
-      <a href="https://github.com/Joao-H-Esteves/case-automacao-gestao-documentos-fiscais"><strong>Case 01 — Automação da Gestão de Documentos Fiscais</strong></a>
-    </td>
+    <td valign="top"><img src="assets/process-automation.svg" width="54" alt="Process Automation" align="left" /><strong>PROCESS AUTOMATION</strong><br><sub>Automação de processos</sub><br><br><a href="https://github.com/Joao-H-Esteves/case-automacao-gestao-documentos-fiscais"><strong>Case 01 — Automação da Gestão de Documentos Fiscais</strong></a></td>
     <td valign="top">Implantação de solução corporativa para automação, governança e centralização de documentos fiscais, com expansão de escopo, replanejamento, treinamento, Go-Live e transição para operação.</td>
-    <td valign="top">
-      <img src="https://img.shields.io/badge/SAP-1C1C1C?style=for-the-badge&logo=sap&logoColor=white" />
-      <img src="https://img.shields.io/badge/Sankhya-8A2BE2?style=for-the-badge" /><br>
-      <img src="https://img.shields.io/badge/FBN-6C4AB6?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/Automa%C3%A7%C3%A3o%20Fiscal-1C1C1C?style=for-the-badge" />
-    </td>
-    <td valign="middle" align="center">
-      <img src="https://img.shields.io/badge/GitHub-1C1C1C?style=for-the-badge&logo=github&logoColor=white" /><br><br>
-      <a href="https://github.com/Joao-H-Esteves/case-automacao-gestao-documentos-fiscais"><img src="https://img.shields.io/badge/VER%20CASE-8A2BE2?style=for-the-badge&logo=github&logoColor=white" /></a>
-    </td>
+    <td valign="middle" align="center"><img src="https://img.shields.io/badge/SAP-1C1C1C?style=for-the-badge&logo=sap&logoColor=white" /> <img src="https://img.shields.io/badge/Sankhya-8A2BE2?style=for-the-badge" /><br><img src="https://img.shields.io/badge/FBN-6C4AB6?style=for-the-badge" /> <img src="https://img.shields.io/badge/Automa%C3%A7%C3%A3o%20Fiscal-1C1C1C?style=for-the-badge" /></td>
+    <td valign="middle" align="center"><img src="https://img.shields.io/badge/GitHub-1C1C1C?style=for-the-badge&logo=github&logoColor=white" /><br><br><a href="https://github.com/Joao-H-Esteves/case-automacao-gestao-documentos-fiscais"><img src="https://img.shields.io/badge/VER%20CASE-8A2BE2?style=for-the-badge&logo=github&logoColor=white" /></a></td>
   </tr>
   <tr>
-    <td valign="top">
-      <img src="assets/enterprise-systems.svg" width="54" alt="Enterprise Systems" align="left" />
-      <strong>ENTERPRISE SYSTEMS</strong><br>
-      <sub>ERP &amp; soluções corporativas</sub><br><br>
-      <a href="https://github.com/Joao-H-Esteves/case-migracao-folha-pessoas-plus"><strong>Case 02 — Migração da Folha de Pagamento para Sankhya Pessoas+</strong></a>
-    </td>
+    <td valign="top"><img src="assets/enterprise-systems.svg" width="54" alt="Enterprise Systems" align="left" /><strong>ENTERPRISE SYSTEMS</strong><br><sub>ERP &amp; soluções corporativas</sub><br><br><a href="https://github.com/Joao-H-Esteves/case-migracao-folha-pessoas-plus"><strong>Case 02 — Migração da Folha de Pagamento para Sankhya Pessoas+</strong></a></td>
     <td valign="top">Migração da folha de pagamento do ambiente legado MGE para o Sankhya Pessoas+, com capacitação de Key Users, homologação, eSocial, Benefícios, Go-Live, operação assistida e handover para sustentação.</td>
-    <td valign="top">
-      <img src="https://img.shields.io/badge/Sankhya-1C1C1C?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/Pessoas%2B-8A2BE2?style=for-the-badge" /><br>
-      <img src="https://img.shields.io/badge/eSocial-6C4AB6?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/SAP-1C1C1C?style=for-the-badge&logo=sap&logoColor=white" />
-    </td>
-    <td valign="middle" align="center">
-      <img src="https://img.shields.io/badge/GitHub-1C1C1C?style=for-the-badge&logo=github&logoColor=white" /><br><br>
-      <a href="https://github.com/Joao-H-Esteves/case-migracao-folha-pessoas-plus"><img src="https://img.shields.io/badge/VER%20CASE-8A2BE2?style=for-the-badge&logo=github&logoColor=white" /></a>
-    </td>
+    <td valign="middle" align="center"><img src="https://img.shields.io/badge/Sankhya-1C1C1C?style=for-the-badge" /> <img src="https://img.shields.io/badge/Pessoas%2B-8A2BE2?style=for-the-badge" /><br><img src="https://img.shields.io/badge/eSocial-6C4AB6?style=for-the-badge" /> <img src="https://img.shields.io/badge/SAP-1C1C1C?style=for-the-badge&logo=sap&logoColor=white" /></td>
+    <td valign="middle" align="center"><img src="https://img.shields.io/badge/GitHub-1C1C1C?style=for-the-badge&logo=github&logoColor=white" /><br><br><a href="https://github.com/Joao-H-Esteves/case-migracao-folha-pessoas-plus"><img src="https://img.shields.io/badge/VER%20CASE-8A2BE2?style=for-the-badge&logo=github&logoColor=white" /></a></td>
   </tr>
   <tr>
-    <td valign="top">
-      <img src="assets/itsm-services.svg" width="54" alt="ITSM & Services" align="left" />
-      <strong>ITSM &amp; SERVICES</strong><br>
-      <sub>Gestão de serviços</sub>
-    </td>
+    <td valign="top"><img src="assets/itsm-services.svg" width="54" alt="ITSM & Services" align="left" /><strong>ITSM &amp; SERVICES</strong><br><sub>Gestão de serviços</sub></td>
     <td valign="top">Estruturação e evolução de processos e plataformas de gestão de serviços, com foco em fluxo, governança e experiência operacional.</td>
-    <td valign="top">
-      <img src="https://img.shields.io/badge/ITSM-1C1C1C?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/Servi%C3%A7os-8A2BE2?style=for-the-badge" /><br>
-      <img src="https://img.shields.io/badge/Processos-6C4AB6?style=for-the-badge" />
-    </td>
-    <td valign="middle" align="center">
-      <img src="https://img.shields.io/badge/GitHub-1C1C1C?style=for-the-badge&logo=github&logoColor=white" /><br><br>
-      <img src="https://img.shields.io/badge/EM%20BREVE-6C4AB6?style=for-the-badge" />
-    </td>
+    <td valign="middle" align="center"><img src="https://img.shields.io/badge/ITSM-1C1C1C?style=for-the-badge" /> <img src="https://img.shields.io/badge/Servi%C3%A7os-8A2BE2?style=for-the-badge" /><br><img src="https://img.shields.io/badge/Processos-6C4AB6?style=for-the-badge" /></td>
+    <td valign="middle" align="center"><img src="https://img.shields.io/badge/GitHub-1C1C1C?style=for-the-badge&logo=github&logoColor=white" /><br><br><img src="https://img.shields.io/badge/EM%20BREVE-6C4AB6?style=for-the-badge" /></td>
   </tr>
   <tr>
-    <td valign="top">
-      <img src="assets/digital-transformation.svg" width="54" alt="Digital Transformation" align="left" />
-      <strong>DIGITAL TRANSFORMATION</strong><br>
-      <sub>Integrações &amp; evolução tecnológica</sub>
-    </td>
+    <td valign="top"><img src="assets/digital-transformation.svg" width="54" alt="Digital Transformation" align="left" /><strong>DIGITAL TRANSFORMATION</strong><br><sub>Integrações &amp; evolução tecnológica</sub></td>
     <td valign="top">Integrações, automações e iniciativas de transformação de processos e tecnologia orientadas a eficiência e evolução operacional.</td>
-    <td valign="top">
-      <img src="https://img.shields.io/badge/Integra%C3%A7%C3%B5es-1C1C1C?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/Automa%C3%A7%C3%A3o-8A2BE2?style=for-the-badge" /><br>
-      <img src="https://img.shields.io/badge/Evolu%C3%A7%C3%A3o-6C4AB6?style=for-the-badge" />
-    </td>
-    <td valign="middle" align="center">
-      <img src="https://img.shields.io/badge/GitHub-1C1C1C?style=for-the-badge&logo=github&logoColor=white" /><br><br>
-      <img src="https://img.shields.io/badge/EM%20BREVE-6C4AB6?style=for-the-badge" />
-    </td>
+    <td valign="middle" align="center"><img src="https://img.shields.io/badge/Integra%C3%A7%C3%B5es-1C1C1C?style=for-the-badge" /> <img src="https://img.shields.io/badge/Automa%C3%A7%C3%A3o-8A2BE2?style=for-the-badge" /><br><img src="https://img.shields.io/badge/Evolu%C3%A7%C3%A3o-6C4AB6?style=for-the-badge" /></td>
+    <td valign="middle" align="center"><img src="https://img.shields.io/badge/GitHub-1C1C1C?style=for-the-badge&logo=github&logoColor=white" /><br><br><img src="https://img.shields.io/badge/EM%20BREVE-6C4AB6?style=for-the-badge" /></td>
   </tr>
   <tr>
-    <td valign="top">
-      <img src="assets/agile-delivery.svg" width="54" alt="Agile Delivery" align="left" />
-      <strong>AGILE DELIVERY</strong><br>
-      <sub>Azure DevOps &amp; execução</sub>
-    </td>
+    <td valign="top"><img src="assets/agile-delivery.svg" width="54" alt="Agile Delivery" align="left" /><strong>AGILE DELIVERY</strong><br><sub>Azure DevOps &amp; execução</sub></td>
     <td valign="top">Organização da execução, rastreabilidade e gestão visual do trabalho em contextos ágeis e híbridos.</td>
-    <td valign="top">
-      <img src="https://img.shields.io/badge/Azure%20DevOps-1C1C1C?style=for-the-badge&logo=azuredevops&logoColor=white" />
-      <img src="https://img.shields.io/badge/Scrum-8A2BE2?style=for-the-badge" /><br>
-      <img src="https://img.shields.io/badge/Kanban-6C4AB6?style=for-the-badge" />
-    </td>
-    <td valign="middle" align="center">
-      <img src="https://img.shields.io/badge/GitHub-1C1C1C?style=for-the-badge&logo=github&logoColor=white" /><br><br>
-      <img src="https://img.shields.io/badge/EM%20BREVE-6C4AB6?style=for-the-badge" />
-    </td>
+    <td valign="middle" align="center"><img src="https://img.shields.io/badge/Azure%20DevOps-1C1C1C?style=for-the-badge&logo=azuredevops&logoColor=white" /> <img src="https://img.shields.io/badge/Scrum-8A2BE2?style=for-the-badge" /><br><img src="https://img.shields.io/badge/Kanban-6C4AB6?style=for-the-badge" /></td>
+    <td valign="middle" align="center"><img src="https://img.shields.io/badge/GitHub-1C1C1C?style=for-the-badge&logo=github&logoColor=white" /><br><br><img src="https://img.shields.io/badge/EM%20BREVE-6C4AB6?style=for-the-badge" /></td>
   </tr>
   <tr>
-    <td valign="top">
-      <img src="assets/pmo-governance.svg" width="54" alt="PMO & Governance" align="left" />
-      <strong>PMO &amp; GOVERNANCE</strong><br>
-      <sub>Controles &amp; governança</sub>
-    </td>
+    <td valign="top"><img src="assets/pmo-governance.svg" width="54" alt="PMO & Governance" align="left" /><strong>PMO &amp; GOVERNANCE</strong><br><sub>Controles &amp; governança</sub></td>
     <td valign="top">Governança de projetos, indicadores, riscos, decisões, padronização e visibilidade executiva do portfólio.</td>
-    <td valign="top">
-      <img src="https://img.shields.io/badge/PMO-1C1C1C?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/Governan%C3%A7a-8A2BE2?style=for-the-badge" /><br>
-      <img src="https://img.shields.io/badge/Riscos-6C4AB6?style=for-the-badge" />
-    </td>
-    <td valign="middle" align="center">
-      <img src="https://img.shields.io/badge/GitHub-1C1C1C?style=for-the-badge&logo=github&logoColor=white" /><br><br>
-      <img src="https://img.shields.io/badge/EM%20BREVE-6C4AB6?style=for-the-badge" />
-    </td>
+    <td valign="middle" align="center"><img src="https://img.shields.io/badge/PMO-1C1C1C?style=for-the-badge" /> <img src="https://img.shields.io/badge/Governan%C3%A7a-8A2BE2?style=for-the-badge" /><br><img src="https://img.shields.io/badge/Riscos-6C4AB6?style=for-the-badge" /></td>
+    <td valign="middle" align="center"><img src="https://img.shields.io/badge/GitHub-1C1C1C?style=for-the-badge&logo=github&logoColor=white" /><br><br><img src="https://img.shields.io/badge/EM%20BREVE-6C4AB6?style=for-the-badge" /></td>
   </tr>
 </table>
 
@@ -172,31 +102,16 @@ Background técnico em sistemas e desenvolvimento aplicado hoje à conexão entr
 
 ---
 
-<div align="center">
-  <img src="assets/roadmap.svg" width="42" alt="" />
-  &nbsp;&nbsp;
-  <strong>COMO ESTRUTURO PROJETOS</strong>
-  &nbsp;&nbsp;
-  <img src="assets/roadmap.svg" width="42" alt="" />
-</div>
+<div align="center"><img src="assets/roadmap.svg" width="42" alt="" /> &nbsp;&nbsp; <strong>COMO ESTRUTURO PROJETOS</strong> &nbsp;&nbsp; <img src="assets/roadmap.svg" width="42" alt="" /></div>
 
 <br>
 
-<p align="center">
-  <strong>INICIAÇÃO</strong> &nbsp;→&nbsp; <strong>PLANEJAMENTO</strong> &nbsp;→&nbsp; <strong>EXECUÇÃO</strong> &nbsp;→&nbsp; <strong>MONITORAMENTO & CONTROLE</strong> &nbsp;→&nbsp; <strong>ENCERRAMENTO</strong>
-</p>
-
+<p align="center"><strong>INICIAÇÃO</strong> &nbsp;→&nbsp; <strong>PLANEJAMENTO</strong> &nbsp;→&nbsp; <strong>EXECUÇÃO</strong> &nbsp;→&nbsp; <strong>MONITORAMENTO & CONTROLE</strong> &nbsp;→&nbsp; <strong>ENCERRAMENTO</strong></p>
 <p align="center">Preditivo &nbsp;•&nbsp; Ágil &nbsp;•&nbsp; Híbrido</p>
 
 ---
 
-<div align="center">
-  <img src="assets/gear-animated.svg" width="40" alt="Engrenagem animada" />
-  &nbsp;&nbsp;
-  <strong>FERRAMENTAS, MÉTODOS & DISCIPLINAS</strong>
-  &nbsp;&nbsp;
-  <img src="assets/gear-animated.svg" width="40" alt="Engrenagem animada" />
-</div>
+<div align="center"><img src="assets/gear-animated.svg" width="40" alt="Engrenagem animada" /> &nbsp;&nbsp; <strong>FERRAMENTAS, MÉTODOS & DISCIPLINAS</strong> &nbsp;&nbsp; <img src="assets/gear-animated.svg" width="40" alt="Engrenagem animada" /></div>
 
 <br>
 
@@ -214,13 +129,7 @@ Background técnico em sistemas e desenvolvimento aplicado hoje à conexão entr
 
 ---
 
-<div align="center">
-  <img src="assets/terminal.svg" width="40" alt="" />
-  &nbsp;&nbsp;
-  <strong>TECHNICAL ROOTS</strong>
-  &nbsp;&nbsp;
-  <img src="assets/terminal.svg" width="40" alt="" />
-</div>
+<div align="center"><img src="assets/terminal.svg" width="40" alt="" /> &nbsp;&nbsp; <strong>TECHNICAL ROOTS</strong> &nbsp;&nbsp; <img src="assets/terminal.svg" width="40" alt="" /></div>
 
 <br>
 
@@ -231,22 +140,8 @@ Background técnico em sistemas e desenvolvimento aplicado hoje à conexão entr
 ---
 
 <div align="center">
-  <img src="assets/tools.svg" width="38" alt="" />
-  &nbsp;&nbsp;
-  <strong>GEEK CORNER</strong>
-  &nbsp;&nbsp;
-  <img src="assets/tools.svg" width="38" alt="" />
+  <img src="assets/geek_corner.png" width="100%" alt="Geek Corner — fantasia, games, RPG, tecnologia e ficção científica" />
 </div>
-
-<br>
-
-<p align="center">Tecnologia, ficção científica, computadores, games e cultura geek também fazem parte da minha identidade.</p>
-
-<p align="center">
-  <img height="115px" src="https://user-images.githubusercontent.com/95099882/144245286-c994f15d-8a97-48b2-bd14-5b7a4d83f01d.png" alt="Geek Octocat" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="115px" src="https://user-images.githubusercontent.com/95099882/144250831-994077d6-050d-4643-9b5f-9b8d381ece95.png" alt="Robot Octocat" />
-</p>
 
 ---
 
