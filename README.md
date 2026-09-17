@@ -140,6 +140,21 @@ Background técnico em sistemas e desenvolvimento aplicado hoje à conexão entr
 ---
 
 <div align="center">
+  <img src="assets/tools.svg" width="38" alt="" />
+  &nbsp;&nbsp;
+  <strong>GEEK CORNER</strong>
+  &nbsp;&nbsp;
+  <img src="assets/tools.svg" width="38" alt="" />
+</div>
+
+<br>
+
+<p align="center"><strong>Tecnologia é o que eu faço. Ser geek é parte de quem eu sou.</strong></p>
+<p align="center"><sub>Entre projetos, código, ficção científica, games e universos improváveis, sigo acreditando que as melhores soluções começam com curiosidade.</sub></p>
+
+<br>
+
+<div align="center">
   <img src="assets/geek_corner.png" width="100%" alt="Geek Corner — fantasia, games, RPG, tecnologia e ficção científica" />
 </div>
 
