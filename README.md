@@ -72,7 +72,7 @@ Background técnico em sistemas e desenvolvimento aplicado hoje à conexão entr
   </tr>
   <tr>
     <td valign="top"><img src="assets/itsm-services.svg" width="54" alt="ITSM & Services" align="left" /><strong>ITSM &amp; SERVICES</strong><br><sub>Gestão de serviços</sub><br><br><a href="https://github.com/Joao-H-Esteves/case-transformacao-plataforma-itsm"><strong>Case 03 — Transformação de uma Plataforma de Gestão de Serviços de TI</strong></a></td>
-    <td valign="top">Transformação de ITSM com consolidação de plataformas, governança, migração de legado, CMDB, gestão de mudanças, integrações e evolução contínua por releases e sprints.</td>
+    <td valign="top">Consolidação de ITSMs herdados após aquisições, integrando plataformas, processos e legados distintos com governança, CMDB, migração e evolução contínua por releases e sprints.</td>
     <td valign="middle" align="center"><img src="https://img.shields.io/badge/ITSM-D08A5B?style=for-the-badge" /> <img src="https://img.shields.io/badge/ITIL%20v4-A85D3D?style=for-the-badge" /><br><img src="https://img.shields.io/badge/CMDB-C49A7A?style=for-the-badge" /> <img src="https://img.shields.io/badge/Azure%20DevOps-1C1C1C?style=for-the-badge&logo=azuredevops&logoColor=D08A5B" /></td>
     <td valign="middle" align="center"><img src="https://img.shields.io/badge/GitHub-1C1C1C?style=for-the-badge&logo=github&logoColor=white" /><br><br><a href="https://github.com/Joao-H-Esteves/case-transformacao-plataforma-itsm"><img src="https://img.shields.io/badge/VER%20CASE-D08A5B?style=for-the-badge&logo=github&logoColor=white" /></a></td>
   </tr>
