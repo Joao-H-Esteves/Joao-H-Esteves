@@ -89,9 +89,9 @@ Background técnico em sistemas e desenvolvimento aplicado hoje à conexão entr
     <td valign="middle" align="center"><img src="https://img.shields.io/badge/GitHub-1C1C1C?style=for-the-badge&logo=github&logoColor=white" /><br><br><img src="https://img.shields.io/badge/EM%20BREVE-6C4AB6?style=for-the-badge" /></td>
   </tr>
   <tr>
-    <td valign="top"><img src="assets/pmo-governance.svg" width="54" alt="PMO & Governance" align="left" /><strong>PMO &amp; GOVERNANCE</strong><br><sub>Controles &amp; governança</sub></td>
-    <td valign="top">Governança de projetos, indicadores, riscos, decisões, padronização e visibilidade executiva do portfólio.</td>
-    <td valign="middle" align="center"><img src="https://img.shields.io/badge/PMO-1C1C1C?style=for-the-badge" /> <img src="https://img.shields.io/badge/Governan%C3%A7%C3%A3o-8A2BE2?style=for-the-badge" /><br><img src="https://img.shields.io/badge/Riscos-6C4AB6?style=for-the-badge" /></td>
+    <td valign="top"><img src="assets/pmo-governance.svg" width="54" alt="Facilities & Workplace" align="left" /><strong>FACILITIES &amp; WORKPLACE</strong><br><sub>Consolidação &amp; realocação operacional</sub></td>
+    <td valign="top"><strong>Case 06 — Gestão Integrada de Desmobilização e Reorganização de Espaços Corporativos</strong><br><br>Gestão consolidada de duas iniciativas de Facilities: desmobilização de escritórios com realocação de equipes e planejamento de ocupação, e desmobilização de instalação logística com transferência de ativos, fornecedores, contratos e continuidade operacional.</td>
+    <td valign="middle" align="center"><img src="https://img.shields.io/badge/Facilities-1C1C1C?style=for-the-badge" /> <img src="https://img.shields.io/badge/Workplace-8E3F61?style=for-the-badge" /><br><img src="https://img.shields.io/badge/Change%20Management-C45C78?style=for-the-badge" /></td>
     <td valign="middle" align="center"><img src="https://img.shields.io/badge/GitHub-1C1C1C?style=for-the-badge&logo=github&logoColor=white" /><br><br><img src="https://img.shields.io/badge/EM%20BREVE-6C4AB6?style=for-the-badge" /></td>
   </tr>
 </table>
