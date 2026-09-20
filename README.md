@@ -89,10 +89,10 @@ Background técnico em sistemas e desenvolvimento aplicado hoje à conexão entr
     <td valign="middle" align="center"><img src="https://img.shields.io/badge/GitHub-1C1C1C?style=for-the-badge&logo=github&logoColor=white" /><br><br><img src="https://img.shields.io/badge/EM%20BREVE-6C4AB6?style=for-the-badge" /></td>
   </tr>
   <tr>
-    <td valign="top"><img src="assets/pmo-governance.svg" width="54" alt="PMO & Governance" align="left" /><strong>PMO &amp; GOVERNANCE</strong><br><sub>Controles &amp; governança</sub></td>
-    <td valign="top">Governança de projetos, indicadores, riscos, decisões, padronização e visibilidade executiva do portfólio.</td>
-    <td valign="middle" align="center"><img src="https://img.shields.io/badge/PMO-1C1C1C?style=for-the-badge" /> <img src="https://img.shields.io/badge/Governan%C3%A7%C3%A3o-8A2BE2?style=for-the-badge" /><br><img src="https://img.shields.io/badge/Riscos-6C4AB6?style=for-the-badge" /></td>
-    <td valign="middle" align="center"><img src="https://img.shields.io/badge/GitHub-1C1C1C?style=for-the-badge&logo=github&logoColor=white" /><br><br><img src="https://img.shields.io/badge/EM%20BREVE-6C4AB6?style=for-the-badge" /></td>
+    <td valign="top"><img src="assets/facilities-workplace.svg" width="54" alt="Facilities & Workplace" align="left" /><strong>FACILITIES &amp; WORKPLACE</strong><br><sub>Desmobilização &amp; consolidação operacional</sub><br><br><a href="https://github.com/Joao-H-Esteves/case-facilities-desmobilizacao-consolidacao-operacional"><strong>Case 06 — Facilities: Desmobilização e Consolidação Operacional</strong></a></td>
+    <td valign="top">Gestão consolidada de duas iniciativas de Facilities: desmobilização de escritórios com realocação e Flexoffice, e desmobilização de unidade logística com ativos, infraestrutura, fornecedores, obras de reversão e encerramento contratual.</td>
+    <td valign="middle" align="center"><img src="https://img.shields.io/badge/Facilities-1C1C1C?style=for-the-badge" /> <img src="https://img.shields.io/badge/Workplace-2D665A?style=for-the-badge" /><br><img src="https://img.shields.io/badge/Operational%20Transition-5C9B8A?style=for-the-badge" /></td>
+    <td valign="middle" align="center"><img src="https://img.shields.io/badge/GitHub-1C1C1C?style=for-the-badge&logo=github&logoColor=white" /><br><br><a href="https://github.com/Joao-H-Esteves/case-facilities-desmobilizacao-consolidacao-operacional"><img src="https://img.shields.io/badge/VER%20CASE-2D665A?style=for-the-badge&logo=github&logoColor=white" /></a></td>
   </tr>
 </table>
 
